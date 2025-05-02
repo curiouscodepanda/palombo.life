@@ -3,7 +3,8 @@
 I think now more than ever might be one of the best times to start writing and sharing ideas. With the introduction of artificial intelligence to the world, we’ve seen a massive influx of AI generated content. With current model intelligence, this has lead to a state of more noise and less signal online. This is aided by social media, where algorithms are hyper-optimized for engagement and time on platform, usually leading to less nuance and quality, and thus more outrage and tribalism. But there’s variety of reasons why I think it’s important to start writing right now:
 
 ### 0. Flushing out Ideas & Nuances
-(yes starting at 0 -> embracing that computer science mindset)
+(yes starting at 0 -> embracing that computer science mindset)  
+  
 Zooming out a bit, we live on a massive rock, in a massive solar system, in a massive galaxy, in a massive universe. It can be humbling to think that humans have the unique ability to easily write and produce novel thought in such an environment, but we do. Writing is important for me because it provides the opportunity to capture, improve, and flush out novel thought and expand upon it. Sometimes I feel like I have an idea in my head and I’m not always able to articulate it into the right words. I’d like to change that. It also allows the opportunity for research to verify or counter such thoughts, and to explore nuance & specifics that isn’t really translatable to spoken word (for me, at least). 
 
 ### 1. Thought Vault 
