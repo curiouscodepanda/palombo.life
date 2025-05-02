@@ -1,3 +1,1 @@
-Hello and welcome to my palombo.life. I hope you find something interesting on here!
-
--Andrew
+Hello and welcome to palombo.life. I hope you find something interesting on here!
